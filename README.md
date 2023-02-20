@@ -1,4 +1,5 @@
-![I am a web application developer]([https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/326365281_600470268573026_5840792907060006777_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeESQMVfdn_SxdbORxpgXwmwxJVZBDpcyw7ElVkEOlzLDnBLZCP528W3cUlkVxEfsl9WRFMYLEUT9Xv64aRZ1ynz&_nc_ohc=0asGjaGwPEcAX_694qH&_nc_ht=scontent.fdac90-1.fna&oh=00_AfAhj7az0Mrp8yNc53IQJQNGtn9T6xnh2iVGTo5EFToo3Q&oe=63CE086D](https://www.linkedin.com/posts/sagorsheikh_activity-7033504699949469696-OyNm?utm_source=share&utm_medium=member_desktop))
+<img src="https://media.licdn.com/dms/image/C5622AQGfK_4wB16rCA/feedshare-shrink_2048_1536/0/1676918195288?e=1679529600&v=beta&t=L1TD2YY9lzics9GNg_NbS3Cwe_F8zEsHnl4f7ZsrGa0" alt="Image Banner">
+
 # 👋 Hello, I'm Sagor Sheikh
 ## I am a web application developer
 
