@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5622AQGfK_4wB16rCA/feedshare-shrink_2048_1536/0/1676918195288?e=1679529600&v=beta&t=L1TD2YY9lzics9GNg_NbS3Cwe_F8zEsHnl4f7ZsrGa0" alt="Image Banner">
+<img src="[https://media.licdn.com/dms/image/C5622AQGfK_4wB16rCA/feedshare-shrink_2048_1536/0/1676918195288?e=1679529600&v=beta&t=L1TD2YY9lzics9GNg_NbS3Cwe_F8zEsHnl4f7ZsrGa0](https://www.linkedin.com/in/sagorsheikh/overlay/background-image/)" alt="Image Banner">
 
 # 👋 Hello, I'm Sagor Sheikh
 ## I am a web application developer
