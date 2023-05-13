@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/sagorsheikh/overlay/background-image/" alt="Image Banner">
+![image](https://www.linkedin.com/in/sagorsheikh/overlay/background-image/)
 
 # 👋 Hello, I'm Sagor Sheikh
 ## I am a web application developer
