@@ -1,4 +1,4 @@
-![image](https://www.linkedin.com/in/sagorsheikh/overlay/background-image/)
+![image](https://www.facebook.com/photo/?fbid=246725837077172&set=a.108726214210469)
 
 # 👋 Hello, I'm Sagor Sheikh
 ## I am a web application developer
