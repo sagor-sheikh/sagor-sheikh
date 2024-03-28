@@ -3,9 +3,9 @@
 # 👋 Hello, I'm Sagor Sheikh
 ## I am a web application developer
 
-I am a positive and hard-working person coming from non-CSE backgroun. I have studied commerce which is my advanced knowledge. Ability to find and solve any problems faced while coding. I will always try to do creative good work for the company and work according to the company's instructions.
+I am a positive and hard-working person coming from non-CSE background. I have studied commerce which is my advanced knowledge. Ability to find and solve any problems faced while coding. I will always try to do creative good work for the company and work according to the company's instructions.
 
-Skills: MongoDB / REACT / JS / HTML / CSS / Boostrap / Wordpress
+Skills: HTML / CSS / Bootstrap 5 / TailwindCss / JavaScript / Jquery / REACT.js / Next.js / TypeScript / Redux / MongoDB /  WordPress
 
 - 🔭 I’m currently working on Fiverr / UpWork 
 - 🌱 I’m currently learning MongoDB 
