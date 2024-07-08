@@ -2,7 +2,7 @@
 
 # Front-end Developer
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b895dce-72a1-4f79-915e-a9be434c6d84)](https://github.com/sagor-sheikh/about-me)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b895dce-72a1-4f79-915e-a9be434c6d84)](https://github.com/sagor-sheikh/sagor-sheikh)
 
 # 👋 Hello, I'm Sagor Sheikh
 ## I am a web application developer
