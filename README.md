@@ -1,5 +1,9 @@
 ![image](https://media.licdn.com/dms/image/D5616AQFJlZxZ_seI_Q/profile-displaybackgroundimage-shrink_350_1400/0/1676918101155?e=1689206400&v=beta&t=TPo9v2R9LGPjmNxtzFAuTadUU88TcjXj6AA8-Pny9VE)
 
+# Front-end Developer
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b895dce-72a1-4f79-915e-a9be434c6d84)](https://github.com/sagor-sheikh/about-me)
+
 # 👋 Hello, I'm Sagor Sheikh
 ## I am a web application developer
 
@@ -7,7 +11,7 @@ I am a positive and hard-working person coming from non-CSE background. I have s
 
 Skills: HTML / CSS / Bootstrap 5 / TailwindCss / JavaScript / Jquery / REACT.js / Next.js / TypeScript / Redux / MongoDB /  WordPress
 
-- 🔭 I’m currently working on Fiverr / UpWork 
+- 🔭 I’m currently working on Softivus LTD.
 - 🌱 I’m currently learning MongoDB 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
