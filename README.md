@@ -5,6 +5,8 @@ I am a positive and hard-working person coming from non-CSE background. I have s
 
 Skills: HTML / CSS / Bootstrap 5 / TailwindCss / JavaScript / Jquery / REACT.js / Next.js /Vue.js / TypeScript / Redux / MongoDB /  WordPress
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b895dce-72a1-4f79-915e-a9be434c6d84)](https://github.com/sagor-sheikh/sagor-sheikh)
+
 - 🔭 I’m currently working on Softivus LTD.
 - 🌱 I’m currently learning MongoDB 
 - 👯 I’m looking to collaborate on GitHub 
