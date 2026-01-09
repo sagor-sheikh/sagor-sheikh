@@ -7,6 +7,8 @@ Skills: HTML / CSS / Bootstrap 5 / TailwindCss / JavaScript / Jquery / REACT.js 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b895dce-72a1-4f79-915e-a9be434c6d84)](https://github.com/sagor-sheikh/sagor-sheikh)
 
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=sagorsheikh)
+
 - 🔭 I’m currently working on Orbix Studio.
 - 🌱 I’m currently learning MongoDB 
 - 👯 I’m looking to collaborate on GitHub 
