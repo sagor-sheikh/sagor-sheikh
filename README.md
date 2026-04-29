@@ -3,7 +3,7 @@
 
 I am a positive and hard-working person coming from non-CSE background. I have studied commerce which is my advanced knowledge. Ability to find and solve any problems faced while coding. I will always try to do creative good work for the company and work according to the company's instructions.
 
-Skills: HTML / CSS / Bootstrap 5 / TailwindCss / JavaScript / Jquery / REACT.js / Next.js /Vue.js / TypeScript / Redux / MongoDB /  WordPress
+Skills: HTML / CSS / Bootstrap 5 / TailwindCss / JavaScript / Jquery / REACT.js / React Native / Next.js /Vue.js / TypeScript /  WordPress
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b895dce-72a1-4f79-915e-a9be434c6d84)](https://github.com/sagor-sheikh/sagor-sheikh)
 
