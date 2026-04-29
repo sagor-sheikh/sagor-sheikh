@@ -15,7 +15,7 @@ Skills: HTML / CSS / Bootstrap 5 / TailwindCss / JavaScript / Jquery / REACT.js 
 - 💬 Ask me about Web Development 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/solve_sagor" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solve_sagor" height="30" width="40" />
   </a>
